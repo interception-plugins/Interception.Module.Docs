@@ -1,21 +1,14 @@
-.. interception-module documentation master file, created by
-   sphinx-quickstart on Thu Jun 12 15:52:52 2025.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to interception-module's documentation!
+Interception.Module documentation
 ===============================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+	:maxdepth: 2
+	:caption: About
 
-   idk
-   idk2
+	about/getting_started.rst
 
-Indices and tables111
-==================
+.. toctree::
+	:maxdepth: 2
+	:caption: API
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+	docs/interception.rst
